@@ -1,0 +1,5 @@
+GET {{apiurl}}/movie/550 HTTP/1.2
+content-type: application/json
+Authorization: : {{token}}
+
+

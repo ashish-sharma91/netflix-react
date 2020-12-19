@@ -1,0 +1,11 @@
+{
+  "rest-client.environmentVariables": {
+    "$shared": {},
+    "development": {
+      "apiurl": "https://api.themoviedb.org/3",
+      "secure_base_url": "https://image.tmdb.org/t/p/w500/",
+      "apikey": "0cc40be8eeff931917bf2d46bc02ec23",
+      "token": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwY2M0MGJlOGVlZmY5MzE5MTdiZjJkNDZiYzAyZWMyMyIsInN1YiI6IjVmZGEyZjJhYjBiYTdlMDAzZjMxNjMwYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ta84EBzSBerDVGWe0cMBFaf-uXmgEKwGVSsHkv7Megg"
+    }
+  }
+}
